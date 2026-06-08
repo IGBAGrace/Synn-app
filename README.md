@@ -1,4 +1,4 @@
-# synneo_app
+# synn_app
 
 A new Flutter project.
 
